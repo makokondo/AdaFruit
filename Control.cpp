@@ -6,7 +6,7 @@
 
 TControlManager *gcm;
 /********************************************
-  TControlManager
+  TControlManager process event
 *********************************************/
 TControlManager::TControlManager(long *ms,void *owner)
 {
