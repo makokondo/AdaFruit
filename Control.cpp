@@ -1,11 +1,12 @@
 /********************************************
   TControl
+  aaa
 *********************************************/
 #include <Control.h>
 
 TControlManager *gcm;
 /********************************************
-  TControlManager
+  TControlManager process event
 *********************************************/
 TControlManager::TControlManager(long *ms,void *owner)
 {
